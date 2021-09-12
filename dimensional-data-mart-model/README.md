@@ -8,3 +8,6 @@ Some of the business questions were:
 - How much was last year’s Wisconsin sales?
 - Is there a correlation between the number of cashier at each department store with the day, month or season of the year?
 - Total taxes paid to the local government per month
+
+
+![Data Mart Dimensional Model](data_mart.jpeg)
